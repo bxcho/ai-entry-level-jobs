@@ -1,0 +1,50 @@
+# Starter list. Check data/company_status.csv after the first run and fix any "not found" rows.
+# Find a token in a company's careers URL:
+#   job-boards.greenhouse.io/TOKEN  or  boards.greenhouse.io/TOKEN  -> ats = greenhouse
+#   jobs.lever.co/TOKEN                                            -> ats = lever
+#   jobs.ashbyhq.com/TOKEN                                         -> ats = ashby
+company,ats,token,sector
+Stripe,greenhouse,stripe,fintech
+Robinhood,greenhouse,robinhood,fintech
+Coinbase,greenhouse,coinbase,fintech
+Affirm,greenhouse,affirm,fintech
+Brex,greenhouse,brex,fintech
+Chime,greenhouse,chime,fintech
+SoFi,greenhouse,sofi,fintech
+Carta,greenhouse,carta,fintech
+Gusto,greenhouse,gusto,fintech
+Plaid,ashby,plaid,fintech
+Ramp,ashby,ramp,fintech
+Airbnb,greenhouse,airbnb,consumer
+Duolingo,greenhouse,duolingo,consumer
+Reddit,greenhouse,reddit,consumer
+Pinterest,greenhouse,pinterest,consumer
+Instacart,greenhouse,instacart,consumer
+Lyft,greenhouse,lyft,consumer
+Discord,greenhouse,discord,consumer
+Roblox,greenhouse,roblox,consumer
+Spotify,lever,spotify,consumer
+Figma,greenhouse,figma,software
+GitLab,greenhouse,gitlab,software
+Dropbox,greenhouse,dropbox,software
+Cloudflare,greenhouse,cloudflare,software
+Asana,greenhouse,asana,software
+Datadog,greenhouse,datadog,software
+MongoDB,greenhouse,mongodb,software
+Elastic,greenhouse,elastic,software
+Samsara,greenhouse,samsara,software
+Twilio,greenhouse,twilio,software
+Greenhouse,greenhouse,greenhouse,software
+Coupa,lever,coupa,software
+Notion,ashby,notion,software
+Linear,ashby,linear,software
+Databricks,greenhouse,databricks,ai_data
+Anthropic,greenhouse,anthropic,ai_data
+Scale AI,greenhouse,scaleai,ai_data
+OpenAI,ashby,openai,ai_data
+Palantir,lever,palantir,ai_data
+Flatiron Health,greenhouse,flatironhealth,healthcare
+Oscar Health,greenhouse,oscar,healthcare
+Hinge Health,ashby,hinge-health,healthcare
+Veeva Systems,lever,veeva,healthcare
+Flexport,greenhouse,flexport,logistics
